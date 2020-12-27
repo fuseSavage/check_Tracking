@@ -29,7 +29,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.0
   splashscreen: any
-  http: any
+  http: ^0.12.2
   intl: any
   html2md: any
   flutter_markdown: any
